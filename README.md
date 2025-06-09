@@ -1,6 +1,6 @@
 # CodeClause-Python-Internship-Task
 
-## 🎧 DK Music Player & 🧮 Calculator
+## 🎧 Music Player & 🧮 Calculator
 
 These Python GUI projects were developed during my **virtual internship at CodeClause**. Both applications are built using the **Tkinter** library, offering interactive user interfaces — a music player for playing `.mp3` and `.flac` files, and a calculator that performs standard arithmetic operations with a modern button design.
 
